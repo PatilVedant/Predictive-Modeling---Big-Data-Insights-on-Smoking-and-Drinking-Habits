@@ -1,6 +1,6 @@
 # Predictive-Modeling---Big-Data-Insights-on-Smoking-and-Drinking-Habits
 
-##Intorduction
+# Introduction
 Unveiling the true Power of Big Data represents a pioneering effort in Big Data Analytics, aiming to reshape
 healthcare sector, specifically in addressing the impacts of alcohol consumption and smoking. By leveraging
 predictive analytics, the project seeks to predict the likelihood of individuals adopting these habits. Focused
@@ -18,7 +18,7 @@ analysis, positioning itself as a trailblazer in predictive healthcare. By layin
 transformative paradigm, the research aims to instigate a proactive, preventative healthcare approach,
 offering individuals a second chance and contributing to a healthier and more informed society.
 
-##Project Goal
+# Project Goal
 The overarching objective of this research project is to construct a robust predictive model capable of
 accurately classifying individuals into distinct categories based on their smoking habits and alcohol
 consumption patterns. This advanced model not only classifies individuals as abstainers, current smokers,
